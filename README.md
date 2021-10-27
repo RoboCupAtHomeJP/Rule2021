@@ -23,3 +23,7 @@ This is a repository for rules of RoboCup Asia Pacific 2021 @Home League.
 ## Tasks
 - [Tidy Up, WRS2020](rules/tidyup_ja.md) 
 - Final
+
+# LINK
+
+- [情報発信サイト](https://github.com/RoboCupAtHomeJP/AtHome2021)

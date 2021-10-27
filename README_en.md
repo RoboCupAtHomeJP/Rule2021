@@ -22,3 +22,7 @@ Tasks
 ## Tasks
 - [Tidy Up, WRS2020](rules/tidyup_en.md) 
 - Final
+
+# LINK
+
+- [Information Site](https://github.com/RoboCupAtHomeJP/AtHome2021/blob/master/README_en.md)
