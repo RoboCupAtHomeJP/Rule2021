@@ -11,7 +11,7 @@ This is a repository for rules of RoboCup Asia Pacific 2021 @Home League.
 **ルールの詳細はSlackやissuesで議論中です．変更となる可能性があります**
 
 ## Tasks
-- [Basic Functionalities](../rules/basicfunctionalities_ja.md)
+- [Basic Functionalities](./rules/basicfunctionalities_ja.md)
 - [Tidy Up for OPL](./rules/tidyup_opl_ja.md)
 - Final
 

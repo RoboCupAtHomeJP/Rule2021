@@ -12,7 +12,7 @@ English | [日本語](README.md)
 **Notice:** Details of the rules are under discussion in Slack and issues. They are subject to change.
 
 Tasks
-- [Basic Functionalities](../rules/basicfunctionalities_en.md)
+- [Basic Functionalities](./rules/basicfunctionalities_en.md)
 - [Tidy Up for OPL](./rules/tidyup_opl_en.md)
 - Final
 
