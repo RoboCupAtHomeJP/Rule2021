@@ -4,7 +4,6 @@
 ## お知らせ
 * タスクの理解の参考に，[こちらの動画](https://youtu.be/8OoxJS_4YFs)をご覧ください
 * 今回のタスクはRoboCup2014の「[basic functionalies](http://docs.google.com/viewer?a=v&pid=sites&srcid=cm9ib2N1cGF0aG9tZS5vcmd8cm9ib2N1cC1ob21lfGd4OjEzYWQ0MzQwYjdhYmQyODM)」を基に，カスタマイズしたルールで行われます
-* アリーナはTidy up用アリーナをカスタマイズして実施します．カスタマイズの内容は[こちら]()をご覧ください
 
 ## Focus
 1. モバイルマニピュレーション

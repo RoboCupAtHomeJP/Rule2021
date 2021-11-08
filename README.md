@@ -8,7 +8,7 @@ This is a repository for rules of RoboCup Asia Pacific 2021 @Home League.
 **質問はissueまでお願いいたします．**
 
 # Open Platform League (OPL)
-**ルールの詳細はSlackやissuesで議論中です．変更となる可能性があります  **
+**ルールの詳細はSlackやissuesで議論中です．変更となる可能性があります**
 
 ## Tasks
 - [Basic Functionalities](../rules/basicfunctionalities_ja.md)
@@ -16,7 +16,7 @@ This is a repository for rules of RoboCup Asia Pacific 2021 @Home League.
 - Final
 
 # Domestic Standard Platform League (DSPL)
-**現在ルールの詳細は策定中ですので，変更となる可能性があります．ご注意ください．  **
+**現在ルールの詳細は策定中ですので，変更となる可能性があります．ご注意ください．**
 
 ## Tasks
 - [Tidy Up, WRS2020](rules/tidyup_ja.md) 
