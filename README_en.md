@@ -11,9 +11,9 @@ English | [日本語](README.md)
 # Open Platform League (OPL)
 **Notice:** Details of the rules are under discussion in Slack and issues. They are subject to change.
 
-Tasks (The English version is preparation now.)
-- [Basic Functionalities](../rules/basicfunctionalities_ja.md)
-- [Tidy Up for OPL](./rules/tidyup_opl_ja.md)
+Tasks
+- [Basic Functionalities](../rules/basicfunctionalities_en.md)
+- [Tidy Up for OPL](./rules/tidyup_opl_en.md)
 - Final
 
 # Domestic Standard Platform League (DSPL)
