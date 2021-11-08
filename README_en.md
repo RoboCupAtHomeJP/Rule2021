@@ -9,11 +9,11 @@ English | [日本語](README.md)
 **If you have any questions, please send them by issue.**
 
 # Open Platform League (OPL)
-**Notice:** The details of the rules are being decided now. They may be changed. 
+**Notice:** Details of the rules are under discussion in Slack and issues. They are subject to change.
 
-Tasks
-- Basic Functionalities, RCJ2015: We are adjusting to introduce new time bonus rules for each section. (Reference: [Rules for 2020](rules/basicfunctionalities_en.md))
-- Tidy Up simplified version: We are adjusting on the tidy up of WRS2020, with the following rules: Task 1: reduce the number of objects, limite the locations, Task 2: keep the same rules.
+Tasks (The English version is preparation now.)
+- [Basic Functionalities](../rules/basicfunctionalities_ja.md)
+- [Tidy Up for OPL](./rules/tidyup_opl_ja.md)
 - Final
 
 # Domestic Standard Platform League (DSPL)
