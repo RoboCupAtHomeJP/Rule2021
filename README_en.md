@@ -11,7 +11,10 @@ English | [日本語](README.md)
 # Open Platform League (OPL)
 **Notice:** Details of the rules are under discussion in Slack and issues. They are subject to change.
 
-Tasks
+**Robot Inspection was published.**
+
+## Tasks
+- [Robot Inspection](./rules/robotinspection_en.md) (setup day)
 - [Basic Functionalities](./rules/basicfunctionalities_en.md)
 - [Tidy Up for OPL](./rules/tidyup_opl_en.md)
 - Final
@@ -19,7 +22,10 @@ Tasks
 # Domestic Standard Platform League (DSPL)
 **Notice:** The details of the rules are being decided now, so they may be changed.  
 
+**Robot Inspection was published.**
+
 ## Tasks
+- [Robot Inspection](./rules/robotinspection_en.md) (setup day)
 - [Tidy Up, WRS2020](rules/tidyup_en.md) 
 - Final
 
