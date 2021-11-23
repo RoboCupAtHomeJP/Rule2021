@@ -17,7 +17,7 @@ English | [日本語](README.md)
 - [Robot Inspection](./rules/robotinspection_en.md) (setup day)
 - [Basic Functionalities](./rules/basicfunctionalities_en.md)
 - [Tidy Up for OPL](./rules/tidyup_opl_en.md)
-- Final
+- [Finals](./rules/finals_en.md)
 
 # Domestic Standard Platform League (DSPL)
 **Notice:** The details of the rules are being decided now, so they may be changed.  
@@ -27,7 +27,7 @@ English | [日本語](README.md)
 ## Tasks
 - [Robot Inspection](./rules/robotinspection_en.md) (setup day)
 - [Tidy Up, WRS2020](rules/tidyup_en.md) 
-- Final
+- [Finals](./rules/finals_en.md)
 
 # LINK
 
